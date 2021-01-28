@@ -1,0 +1,6 @@
+> get rss data [x]
+> post to webhook [x]
+> add posted to db to avoid duplicate [x]
+> setup a timeloop [x]
+> create function for multiple webhooks [x]
+> look for hosting solutions [ ]
